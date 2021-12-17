@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808471695273",
+    "project_id": "appecommerce-f4bba",
+    "storage_bucket": "appecommerce-f4bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808471695273:android:08212a3f897899ca213eb8",
+        "android_client_info": {
+          "package_name": "com.example.app_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808471695273-v00jm6r0o44uk27eh69nkpoovmo83a0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArO8jX8aKROdqkJoR1m8Yj8XH5OwVkv3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808471695273-v00jm6r0o44uk27eh69nkpoovmo83a0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
